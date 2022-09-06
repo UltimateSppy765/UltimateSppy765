@@ -1,9 +1,4 @@
 ### Hi there 👋
-<p align="center">
-  <a href="https://unsplash.com">
-  <img width="49.5%" src="https://unsplash-random.sppysmh.workers.dev" />
-  </a>
-</p>
 
 [![Images from Unsplash!](https://unsplash-random.sppysmh.workers.dev)](https://unsplash.com)
 
